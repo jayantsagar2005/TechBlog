@@ -19,6 +19,9 @@ Features:
 Technologies:
 
 Frontend: HTML, CSS, JavaScript, Bootstrap, AJAX
+
 Backend: Java, JDBC, MySQL
+
 IDE: IntelliJ
+
 Server: Tomcat 10
