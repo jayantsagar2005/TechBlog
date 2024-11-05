@@ -222,6 +222,7 @@
               <div class="modal-body">
 
                     <div class="container text-center">
+                        <div class="position-absolute mx-5 mt-5 pt-5" style="padding-left: 200px;"><a class="fa fa-camera fa-1x"></a></div>
                         <img src="ProfilePic/<%= user.getProfile() %>" alt="profile pic" class="img-fluid profile-img" style="border-radius:50%; max-width:120px;" >
                         <br>
                         <h5 class="modal-title mt-4" id="exampleModalLongTitle"><%= user.getUsername() %></h5>
